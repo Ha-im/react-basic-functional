@@ -7,7 +7,7 @@ import Modify from './components/Modify'
 import Button from 'react-bootstrap/Button';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import React, { Component, useState } from 'react'
+import React, {useState } from 'react'
 
 
 const App = ()=>{

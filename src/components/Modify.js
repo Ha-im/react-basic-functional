@@ -1,7 +1,7 @@
 import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import React, { Component, useState } from 'react'
+import React, {useState } from 'react'
 
 const Modify = (props)=>{
 const [formData,setFormData] = useState({

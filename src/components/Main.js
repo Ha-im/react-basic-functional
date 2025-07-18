@@ -1,6 +1,5 @@
-import React, { Component } from 'react'
 import Button from 'react-bootstrap/Button';
-
+import React from 'react'
 const Main = (props)=>{
   let className= 'd-flex gap-2 flex-column justify-content-end';
   if(props.mode === 'welcome'){
